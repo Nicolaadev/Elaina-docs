@@ -57,10 +57,6 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Elaina Docs, Inc. Built with Docusaurus. By Nekow`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
